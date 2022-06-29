@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18",
+    "slugify": "^1.6.5"
+  },
+  "name": "deneme",
+  "version": "1.0.0",
+  "main": "AciklamaSatiri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/17selin/Javascript-Temelleri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/17selin/Javascript-Temelleri/issues"
+  },
+  "homepage": "https://github.com/17selin/Javascript-Temelleri#readme",
+  "description": ""
+}
